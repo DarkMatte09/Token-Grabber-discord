@@ -1,95 +1,82 @@
-# Token-Grabber-discord
-A simple discord token grabber tool (for only educational porpuses only!)
+<h1 align="center">Token-Grabber-discord</h1>
+<p align="center">A simple discord token grabber tool (for <strong>educational purposes only</strong>!)</p>
 
-![Logo](assets/logo.png)
+<p align="center">
+  <img src="assets/logo.png" width="400">
+</p>
 
-🌐 Discord Token Security Analyzer
-🛡️ Educational & Authorized Lab Use Only
-📘 Overview
+<h2>🌐 Discord Token Security Analyzer</h2>
+<h3>🛡️ Educational & Authorized Lab Use Only</h3>
 
+<h3>📘 Overview</h3>
+<p>
 Discord Token Security Analyzer is an educational tool designed to demonstrate how Discord tokens are structured, stored, and protected, without interacting with real user data.
+</p>
 
-This repository is intended for:
+<p>This repository is intended for:</p>
+<ul>
+  <li>🧪 Cybersecurity labs</li>
+  <li>🎓 Educational environments</li>
+  <li>🔍 Malware analysis training</li>
+  <li>🛠️ Secure coding practice</li>
+  <li>🕵️ Digital forensics demonstrations</li>
+</ul>
 
-🧪 Cybersecurity labs
+<p>⚠️ No real tokens are collected, extracted, or transmitted.<br>
+All operations use simulated / mock data.</p>
 
-🎓 Educational environments
+<h3>✨ Features</h3>
 
-🔍 Malware analysis training
+<h4>🔐 Token Structure Analysis</h4>
+<p>Shows how Discord tokens are formatted and why improper storage is dangerous.</p>
 
-🛠️ Secure coding practice
+<p><strong>HOW TO USE?</strong><br>
+You can just launch the exe and follow the steps, this will create in the same directory a new directory "dist" with the exe or py file.</p>
 
-🕵️ Digital forensics demonstrations
+<h4>📁 Secure Local Storage Demo</h4>
+<p>Simulates how applications safely (and unsafely) store credential-like data.</p>
 
-⚠️ No real tokens are collected, extracted, or transmitted.
-All operations use simulated / mock data.
+<h4>🔍 Detection Training</h4>
+<p>Includes examples of patterns used by malicious scripts — without using harmful code.</p>
 
-✨ Features
-🔐 Token Structure Analysis
+<h4>🧰 Developer Learning Tools</h4>
+<p>Great for understanding:</p>
+<ul>
+  <li>How token authentication works</li>
+  <li>Why local storage must be protected</li>
+  <li>How to identify suspicious scripts</li>
+  <li>How to harden your own applications</li>
+</ul>
 
-Shows how Discord tokens are formatted and why improper storage is dangerous.
+<h3>🚀 Getting Started</h3>
 
-📁 Secure Local Storage Demo
+<h4>📌 Requirements</h4>
+<p>Python 3.10+</p>
 
-Simulates how applications safely (and unsafely) store credential-like data.
+<p>This will analyze mock tokens, show how patterns work, and demonstrate detection logic.</p>
 
-🔍 Detection Training
-
-Includes examples of patterns used by malicious scripts—without using harmful code.
-
-🧰 Developer Learning Tools
-
-Great for understanding:
-
-How token authentication works
-
-Why local storage must be protected
-
-How to identify suspicious scripts
-
-How to harden your own applications
-
-🚀 Getting Started
-📌 Requirements
-
-Python 3.10+
-
-
-This will analyze mock tokens, show how patterns work, and demonstrate detection logic.
-
-🧠 Why This Exists
-
-Many beginners encounter dangerous scripts online disguised as “token grabbers.”
+<h3>🧠 Why This Exists</h3>
+<p>
+Many beginners encounter dangerous scripts online disguised as “token grabbers.”<br>
 This project teaches how they work internally, so students and analysts can:
+</p>
+<ul>
+  <li>Detect malicious code</li>
+  <li>Understand the risks</li>
+  <li>Learn secure alternatives</li>
+  <li>Improve their cybersecurity awareness</li>
+</ul>
+<p>This is a safe, controlled, ethical learning environment.</p>
 
-Detect malicious code
+<h3>🛡️ Ethical & Legal Notice</h3>
+<p>It is designed exclusively for authorized educational use in security labs.</p>
 
-Understand the risks
-
-Learn secure alternatives
-
-Improve their cybersecurity awareness
-
-This is a safe, controlled, ethical learning environment.
-
-🛡️ Ethical & Legal Notice
-
-This project:
-
-✔ does NOT steal data
-✔ does NOT interact with Discord
-✔ does NOT contain harmful code
-✔ uses only mock data
-
-It is designed exclusively for authorized educational use in security labs.
-
-⚠️ Disclaimer
-
-I, as the creator of this repository,
-do not take responsibility for any misuse, illegal activity, or modified versions of this project.
-
+<h3>⚠️ Disclaimer</h3>
+<p>
+I, as the creator of this repository, do not take responsibility for any misuse, illegal activity, or modified versions of this project.<br>
 Use this tool responsibly, follow all applicable laws, and respect platform terms of service.
+</p>
 
-⭐ Support the Project
+<h3>⭐ Support the Project</h3>
+<p>If this educational tool helped you, feel free to ⭐ star the repository!</p>
 
-If this educational tool helped you, feel free to ⭐ star the repository!
